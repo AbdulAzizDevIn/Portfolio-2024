@@ -31,30 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Myntra Clone",
+    description: "A replica of the Myntra e-commerce platform with features for browsing, searching, and sorting products.",
+    url: "https://myntra-clone-aziz.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Stock Images",
+    description: "An image repository application allowing users to search and download high-quality images.",
+    url: "https://stock-image-lyart.vercel.app/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "NewsHub",
+    description: "A news aggregation platform that allows users to explore trending articles across various categories.",
+    url: "https://news-website-ten.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Schbang Clone",
+    description: "An impressive clone of the Schbang website, demonstrating exceptional UI design and user experience.",
+    url: "https://schbang-clone.vercel.app/",
   },
 ];
+
 
 const Portfolio = () => {
   return (
