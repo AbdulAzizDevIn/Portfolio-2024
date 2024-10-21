@@ -27,12 +27,12 @@ const siteProps = {
   name: "Abdul Aziz",
   title: "Full Stack Developer",
   email: "abdulaziz742141@gmail.com",
-  gitHub: "https://github.com/AbdulAzizDevIn",
-  instagram: "https://www.instagram.com/abdul_aziiz_01/",
-  linkedIn: "https://www.linkedin.com/in/abdulazizdev/",
+  gitHub: "AbdulAzizDevIn",
+  instagram: "abdul_aziiz_01",
+  linkedIn: "abdulazizdev",
   medium: "",
-  twitter: "https://x.com/AbdulAzizDevIn",
-  youTube: "https://www.youtube.com/@Abdul_aziz_dev",
+  twitter: "AbdulAzizDevIn",
+  youTube: "Abdul_aziz_dev",
 };
 
 const primaryColor = "#4E567E";
